@@ -1,2 +1,3 @@
 # BEng-Project
-Automated Sleep Scorer
+Deep learning for classification of sleep stages from animal brain activity
+Automated sleep scorer
